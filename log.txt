@@ -30,3 +30,6 @@
 1720167886408  GET /favicon.ico: New Req Recieved 
 1720167887352  GET /favicon.ico: New Req Recieved 
 1720167892392  GET /search: New Req Recieved 
+1720190901301  GET /search: New Req Recieved 
+1720190932947  GET /: New Req Recieved 
+1720190933305  GET /favicon.ico: New Req Recieved 
