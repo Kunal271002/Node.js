@@ -18,3 +18,15 @@
 1720118325176 /cja: New Req Recieved 
 1720118325202 /favicon.ico: New Req Recieved 
 1720118516684 /favicon.ico: New Req Recieved 
+1720165770487 /: New Req Recieved 
+1720165771167 /favicon.ico: New Req Recieved 
+1720165780081 /home: New Req Recieved 
+1720165780495 /favicon.ico: New Req Recieved 
+1720167492735  GET /home: New Req Recieved 
+1720167492756  GET /favicon.ico: New Req Recieved 
+1720167500258  GET /about: New Req Recieved 
+1720167500274  GET /favicon.ico: New Req Recieved 
+1720167886390  GET /about: New Req Recieved 
+1720167886408  GET /favicon.ico: New Req Recieved 
+1720167887352  GET /favicon.ico: New Req Recieved 
+1720167892392  GET /search: New Req Recieved 
